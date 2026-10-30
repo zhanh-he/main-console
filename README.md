@@ -12,6 +12,6 @@ My everyday project shortcuts.
 
 More: [Technical Reports](https://github.com/zhanh-he/technical_reports) · [HPC Transfer](https://github.com/zhanh-he/UWA_HPC) · [All Repositories](https://github.com/zhanh-he?tab=repositories)
 
-Quick links: [Claim API Credits](https://chatgpt.com/settings/billing) · [API Billing](https://platform.openai.com/settings/organization/billing/overview)
+Quick links: [OpenAI Platform](https://platform.openai.com/home) · [Claim API Credits](https://chatgpt.com/settings/billing) · [API Billing](https://platform.openai.com/settings/organization/billing/overview)
 
 Sign in to GitHub to open private repositories. To add a shortcut, edit this README and add a row.
