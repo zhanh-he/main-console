@@ -9,9 +9,10 @@ My everyday project shortcuts.
 | [File Transfer](https://github.com/zhanh-he/file_transfer) | Move files between devices | Private |
 | [Job Search](https://github.com/zhanh-he/finding-jobs) | Find roles and track applications | Private |
 | [Application Materials](https://github.com/zhanh-he/job-application-materials) | Edit CVs and application documents | Private |
+| [Storage Planner](https://storage-planning-console.zhanh-he-uwa.chatgpt.site) | Review storage cleanup and HDD migration plans | Private · Owner-only ChatGPT sign-in |
 
 More: [Technical Reports](https://github.com/zhanh-he/technical_reports) · [HPC Transfer](https://github.com/zhanh-he/UWA_HPC) · [All Repositories](https://github.com/zhanh-he?tab=repositories)
 
 Quick links: [OpenAI Platform](https://platform.openai.com/home) · [Claim API Credits](https://chatgpt.com/settings/billing) · [API Billing](https://platform.openai.com/settings/organization/billing/overview)
 
-Sign in to GitHub to open private repositories. To add a shortcut, edit this README and add a row.
+Sign in to GitHub to open private repositories. The Storage Planner requires its owner to sign in to ChatGPT; the link does not grant access. To add a shortcut, edit this README and add a row.
