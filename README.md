@@ -9,7 +9,7 @@ My everyday project shortcuts.
 | [File Transfer](https://github.com/zhanh-he/file_transfer) | Move files between devices | Private |
 | [Job Search](https://github.com/zhanh-he/finding-jobs) | Find roles and track applications | Private |
 | [Application Materials](https://github.com/zhanh-he/job-application-materials) | Edit CVs and application documents | Private |
-| [Storage Planner](https://storage-planning-console.zhanh-he-uwa.chatgpt.site) | Review storage cleanup and HDD migration plans | Private · Owner-only ChatGPT sign-in |
+| [Storage Planner](https://storage-planning-console.zhanh-he-uwa.chatgpt.site) | Audit refreshed · migration plan awaiting review | Private · Owner-only ChatGPT sign-in |
 
 More: [Technical Reports](https://github.com/zhanh-he/technical_reports) · [HPC Transfer](https://github.com/zhanh-he/UWA_HPC) · [All Repositories](https://github.com/zhanh-he?tab=repositories)
 
